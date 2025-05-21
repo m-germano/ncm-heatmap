@@ -51,7 +51,7 @@ Este projeto é uma aplicação em **React** que permite visualizar, por meio de
 
 ### 1. Clonar o repositório
 ```bash
-git clone https://github.com/seu-usuario/seu-repo.git
+git clone https://github.com/m-germano/ncm-heatmap.git
 ```
 ```bash
 cd seu-repo
