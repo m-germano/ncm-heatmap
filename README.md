@@ -54,7 +54,7 @@ Este projeto é uma aplicação em **React** que permite visualizar, por meio de
 git clone https://github.com/m-germano/ncm-heatmap.git
 ```
 ```bash
-cd seu-repo
+cd ncm-heatmap
 ```
 ### 2. Instalar as dependências
 ```bash
